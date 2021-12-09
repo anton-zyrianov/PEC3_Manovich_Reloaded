@@ -68,20 +68,20 @@ Gracias al avance tecnológico la comunicación esta sufriendo cambios, creando 
 
 ### Referencias y Bibliografía
 
-* Bermudez, Juan Luis, 2011. *Mentionmapp, genera un mapa interactivo con las menciones en Twitter* [online]. En soft&apps, Mayo 2011. Disponible en: https://www.softandapps.info/2011/05/11/mentionmapp-genera-un-mapa-interactivo-con-las-menciones-en-twitter/ [Consulta: 07/12/2021.]
+* Bermudez, Juan Luis, 2011. **Mentionmapp, genera un mapa interactivo con las menciones en Twitter** [online]. En soft&apps, Mayo 2011. Disponible en: https://www.softandapps.info/2011/05/11/mentionmapp-genera-un-mapa-interactivo-con-las-menciones-en-twitter/ [Consulta: 07/12/2021.]
 
-* Enrique, Pérez, 2018. *'Black Mirror: Bandersnatch' es la primera "película interactiva" de Netflix: así funciona* [online]. En xataka, Diciembre 2018. Disponible en: https://www.xataka.com/cine-y-tv/black-mirror-bandersnatch-primera-pelicula-interactiva-netflix-asi-funciona [Consulta: 07/12/2021].
+* Enrique, Pérez, 2018. **'Black Mirror: Bandersnatch' es la primera "película interactiva" de Netflix: así funciona** [online]. En xataka, Diciembre 2018. Disponible en: https://www.xataka.com/cine-y-tv/black-mirror-bandersnatch-primera-pelicula-interactiva-netflix-asi-funciona [Consulta: 07/12/2021].
 
-* Lobo, Sergio García, 2015. *Conoce tus conexiones de Twitter en un mapa 3D con MentionMapp* [online]. En El rincón de Sergarlo, Junio 2015. Disponible en: http://www.sergarlo.com/2015/06/mentionmapp-conexiones-twitter-mapa.html [Consulta: 07/12/2021].
+* Lobo, Sergio García, 2015. **Conoce tus conexiones de Twitter en un mapa 3D con MentionMapp** [online]. En El rincón de Sergarlo, Junio 2015. Disponible en: http://www.sergarlo.com/2015/06/mentionmapp-conexiones-twitter-mapa.html [Consulta: 07/12/2021].
 
-* Manovich, L. (2013). *El software toma el mando.* Barcelona: Editorial UOC. [Consulta: 07/12/2021].
+* Manovich, L. (2013). **El software toma el mando.** Barcelona: Editorial UOC. [Consulta: 07/12/2021].
 
-* *MentionMapp, tus menciones de Twitter en un mapa interactivo* [online]. Disponible en: https://www.webespacio.com/mentionmapp-menciones-mapa-twitter/ [Consulta: 07/12/2021] .
+* **MentionMapp, tus menciones de Twitter en un mapa interactivo** [online]. Disponible en: https://www.webespacio.com/mentionmapp-menciones-mapa-twitter/ [Consulta: 07/12/2021] .
 
-* *Principales herramientas de análisis de Twitter* [online]. Disponible en: https://www.affde.com/es/twitter-analytics-tools.html [Consulta: 07/12/2021].
+* **Principales herramientas de análisis de Twitter** [online]. Disponible en: https://www.affde.com/es/twitter-analytics-tools.html [Consulta: 07/12/2021].
 
-* *¿Qué es un Mashup?* [online]. Disponible en: https://eduardoarea.blogspot.com/2011/07/que-es-un-mashup.html [Consulta: 07/12/2021].
+* **¿Qué es un Mashup?** [online]. Disponible en: https://eduardoarea.blogspot.com/2011/07/que-es-un-mashup.html [Consulta: 07/12/2021].
 
-* Rigo, Marisa Natalia, 2020. *Narrativa digital interactiva en un contexto de convergencia* [online]. En UNICEN, Marzo 2020. Disponible en: https://www.soc.unicen.edu.ar/index.php/categoria-editorial/48-intersecciones-en-comunicacion/3983-a02n14 [Consulta: 07/12/2021].
+* Rigo, Marisa Natalia, 2020. **Narrativa digital interactiva en un contexto de convergencia** [online]. En UNICEN, Marzo 2020. Disponible en: https://www.soc.unicen.edu.ar/index.php/categoria-editorial/48-intersecciones-en-comunicacion/3983-a02n14 [Consulta: 07/12/2021].
 
-* Scolari, Carlos, 2013. *Los medios al gobierno, el software al poder (leyendo a Manovich) (II)* [online]. En hipermediaciones, Noviembre 2013. Disponible en: https://hipermediaciones.com/2013/11/13/los-medios-al-gobierno-el-software-al-poder-leyendo-a-manovich-ii/ [Consulta: 07/12/2021].
+* Scolari, Carlos, 2013. **Los medios al gobierno, el software al poder (leyendo a Manovich) (II)** [online]. En hipermediaciones, Noviembre 2013. Disponible en: https://hipermediaciones.com/2013/11/13/los-medios-al-gobierno-el-software-al-poder-leyendo-a-manovich-ii/ [Consulta: 07/12/2021].
