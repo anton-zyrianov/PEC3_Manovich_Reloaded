@@ -1,9 +1,12 @@
-# PEC3_Manovich_Reloaded
-Repositorio correspondiente a la PEC3 que consisten se trata de un ensayo sobre la hibridación con dos nuevos ejemplos
+# [](https://github.com/zantonz/PEC3_Manovich_Reloaded/blob/main/README.md)PEC3: Visionando el futuro con las gafas de Manovich
 
-___
+### [](https://github.com/zantonz/PEC3_Manovich_Reloaded/blob/main/README.md)Recurso de aprendizaje de Cultura Digital
 
-# Introducción
+Autor: Antón Zyrianov
+
+Fecha: 09/12/2021
+
+## Planteamiento
 
 Según la *RAE*, hibridación es: 
 >“Producción de seres híbridos”, por lo que podemos decir que es un cruce o mezcla.
@@ -16,7 +19,7 @@ Según Manovich, la hibridación es un proceso de remediación de los medios, do
 
 A partir de aquí procederemos a analizar dos ejemplos de hibridación que son: mentionmap, una herramienta de análisis de **Twitter** y la película **Black Mirror: Bandersnatch** que se trata de un interactivo multimedia.
 
-**Mentionmap**
+## Re-descubriendo la hibridacion: Mentionmap
 
 >“Pensemos en los mashups web que «combinan elementos de datos procedentes de múltiples fuentes y los ocultan tras una sencilla interfaz gráfica unificada»”
 
@@ -42,7 +45,7 @@ Se trata de un mashup o, dicho de otra forma, una aplicación web híbrida, ya q
 
 En conclusión, está herramienta nos sirve para poder ver de una manera gráfica el modo en el que usamos Twitter y una ayuda para búsqueda de nuevos usuarios para poder establecer el contacto.
 
-**Black Mirror: Bandersnatch**
+## Re-descubriendo la hibridacion: Black Mirror: Bandersnatch
 
 >“Un híbrido también puede combinar ambas estrategias, es decir, definir nuevas interfaces/herramientas y nuevos formatos de medios al mismo tiempo.”
 
@@ -68,24 +71,22 @@ En caso de la película Black Mirror: Bandersnatch, como se comentó anteriormen
 
 Gracias al avance tecnológico la comunicación esta sufriendo cambios, creando otras formas de comunicar y nuevos formatos que, a su vez, modifican la relación entre los medios y usuarios.
 
-  
+### Referencias y Bibliografía
 
-# Bibliografía
+* Bermudez, Juan Luis, 2011. *Mentionmapp, genera un mapa interactivo con las menciones en Twitter* [online]. En soft&apps, Mayo 2011. Disponible en: https://www.softandapps.info/2011/05/11/mentionmapp-genera-un-mapa-interactivo-con-las-menciones-en-twitter/ [Consulta: 07/12/2021.]
 
-Enrique, Pérez, 2018. *'Black Mirror: Bandersnatch' es la primera "película interactiva" de Netflix: así funciona* [online]. En xataka, Diciembre 2018. Disponible en: https://www.xataka.com/cine-y-tv/black-mirror-bandersnatch-primera-pelicula-interactiva-netflix-asi-funciona [Consulta: 07/12/2021].
+* Enrique, Pérez, 2018. *'Black Mirror: Bandersnatch' es la primera "película interactiva" de Netflix: así funciona* [online]. En xataka, Diciembre 2018. Disponible en: https://www.xataka.com/cine-y-tv/black-mirror-bandersnatch-primera-pelicula-interactiva-netflix-asi-funciona [Consulta: 07/12/2021].
 
-Manovich, L. (2013). *El software toma el mando.* Barcelona: Editorial UOC. [Consulta: 07/12/2021].
+* Lobo, Sergio García, 2015. *Conoce tus conexiones de Twitter en un mapa 3D con MentionMapp* [online]. En El rincón de Sergarlo, Junio 2015. Disponible en: http://www.sergarlo.com/2015/06/mentionmapp-conexiones-twitter-mapa.html [Consulta: 07/12/2021].
 
-Bermudez, Juan Luis, 2011. *Mentionmapp, genera un mapa interactivo con las menciones en Twitter* [online]. En soft&apps, Mayo 2011. Disponible en: https://www.softandapps.info/2011/05/11/mentionmapp-genera-un-mapa-interactivo-con-las-menciones-en-twitter/ [Consulta: 07/12/2021.]
+* Manovich, L. (2013). *El software toma el mando.* Barcelona: Editorial UOC. [Consulta: 07/12/2021].
 
-*Principales herramientas de análisis de Twitter* [online]. Disponible en: https://www.affde.com/es/twitter-analytics-tools.html [Consulta: 07/12/2021].
+* *MentionMapp, tus menciones de Twitter en un mapa interactivo* [online]. Disponible en: https://www.webespacio.com/mentionmapp-menciones-mapa-twitter/ [Consulta: 07/12/2021] .
 
-Lobo, Sergio García, 2015. *Conoce tus conexiones de Twitter en un mapa 3D con MentionMapp* [online]. En El rincón de Sergarlo, Junio 2015. Disponible en: http://www.sergarlo.com/2015/06/mentionmapp-conexiones-twitter-mapa.html [Consulta: 07/12/2021].
+* *Principales herramientas de análisis de Twitter* [online]. Disponible en: https://www.affde.com/es/twitter-analytics-tools.html [Consulta: 07/12/2021].
 
-Scolari, Carlos, 2013. *Los medios al gobierno, el software al poder (leyendo a Manovich) (II)* [online]. En hipermediaciones, Noviembre 2013. Disponible en: https://hipermediaciones.com/2013/11/13/los-medios-al-gobierno-el-software-al-poder-leyendo-a-manovich-ii/ [Consulta: 07/12/2021].
+* *¿Qué es un Mashup?* [online]. Disponible en: https://eduardoarea.blogspot.com/2011/07/que-es-un-mashup.html [Consulta: 07/12/2021].
 
-*¿Qué es un Mashup?* [online]. Disponible en: https://eduardoarea.blogspot.com/2011/07/que-es-un-mashup.html [Consulta: 07/12/2021].
+* Rigo, Marisa Natalia, 2020. *Narrativa digital interactiva en un contexto de convergencia* [online]. En UNICEN, Marzo 2020. Disponible en: https://www.soc.unicen.edu.ar/index.php/categoria-editorial/48-intersecciones-en-comunicacion/3983-a02n14 [Consulta: 07/12/2021].
 
-*MentionMapp, tus menciones de Twitter en un mapa interactivo* [online]. Disponible en: https://www.webespacio.com/mentionmapp-menciones-mapa-twitter/ [Consulta: 07/12/2021] .
-
-Rigo, Marisa Natalia, 2020. *Narrativa digital interactiva en un contexto de convergencia* [online]. En UNICEN, Marzo 2020. Disponible en: https://www.soc.unicen.edu.ar/index.php/categoria-editorial/48-intersecciones-en-comunicacion/3983-a02n14 [Consulta: 07/12/2021].
+* Scolari, Carlos, 2013. *Los medios al gobierno, el software al poder (leyendo a Manovich) (II)* [online]. En hipermediaciones, Noviembre 2013. Disponible en: https://hipermediaciones.com/2013/11/13/los-medios-al-gobierno-el-software-al-poder-leyendo-a-manovich-ii/ [Consulta: 07/12/2021].
