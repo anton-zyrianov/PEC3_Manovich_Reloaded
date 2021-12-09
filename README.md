@@ -49,7 +49,7 @@ En conclusión, está herramienta nos sirve para poder ver de una manera gráfic
 
 La película se trata de un joven programador que empieza con un proyecto de un videojuego basado en una novela que se trata de una serie de aventuras donde nosotros mismos, los usuarios, interaccionemos con la historia directamente, lo que quiere decir, que en función de las decisiones que tomen la historia se desarrollara por un camino u otro.
 
-El interactivo esta hecha de manera que nosotros mismos seamos los protagonistas, las decisiones afectan a si avanzásemos o retrocediésemos en la historia. Esto implica que la duración de la misma puede variar y durar entre 45 o 90 minutos.
+El interactivo esta hecha de manera que nosotros mismos seamos los protagonistas, las decisiones afectan a si avanzásemos o retrocediésemos en la historia. Esto implica que la duración de la misma puede variar y durar entre 45 o 120 minutos.
 
 El concepto de interactividad podemos entender como la relación entre el usuario y la máquina. Esto nos lleva a que cada acción realizada afecte directamente en lo que sucederá en la pantalla. Durante la película el usuario ha de ser activo, teniendo la posibilidad de actuar y decidir mediante diferentes opciones a escoger.
 
