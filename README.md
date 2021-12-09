@@ -11,9 +11,8 @@ Fecha: 09/12/2021
 Según la *RAE*, hibridación es: 
 >“Producción de seres híbridos”, por lo que podemos decir que es un cruce o mezcla.
 
->“Una vez los ordenadores se transformaron en cómodas casas donde habitaban un sinfín de medios simulados y nuevos, es natural esperar que empezarían a generar híbridos. Y esto es exactamente lo que ha venido sucediendo en esta nueva etapa de evolución de los medios. Tanto los simulados como los nuevos de verdad (texto, hipertexto, fotografías fijas, vídeo digital, animación en 2D y 3D, espacios navegables en 3D, mapas, información de localización) han pasado a funcionar como componentes de muchas nuevas combinaciones de medios.”
-
-*(Manovich Lev, 2013)*
+>“Una vez los ordenadores se transformaron en cómodas casas donde habitaban un sinfín de medios simulados y nuevos, es natural esperar que empezarían a generar híbridos. Y esto es exactamente lo que ha venido sucediendo en esta nueva etapa de evolución de los medios. Tanto los simulados como los nuevos de verdad (texto, hipertexto, fotografías fijas, vídeo digital, animación en 2D y 3D, espacios navegables en 3D, mapas, información de localización) han pasado a funcionar como componentes de muchas nuevas combinaciones de medios.” 
+>(Manovich Lev, 2013)
 
 Según Manovich, la hibridación es un proceso de remediación de los medios, donde no se inventa nada nuevo, sino evoluciona lo que ya estaba. La principal diferencia entre la multimedia y la hibridación es la relación que existe entre los elementos que componen este medio. Por lo tanto, podríamos decir que la hibridación es una combinación de dos o más medios de diferente tipo como pueden ser animación, mapas, fotografías, etc …  que hacer que las aplicaciones sean híbridas.
 
@@ -22,8 +21,7 @@ A partir de aquí procederemos a analizar dos ejemplos de hibridación que son: 
 ## Re-descubriendo la hibridacion: Mentionmap
 
 >“Pensemos en los mashups web que «combinan elementos de datos procedentes de múltiples fuentes y los ocultan tras una sencilla interfaz gráfica unificada»”
-
-*(Manovich Lev, 2013)*
+>(Manovich Lev, 2013)
 
 Se trata de una herramienta con la cual podemos descubrir como interactúan los usuarios de Twitter y de que están hablando a través de un mapa 3D. Además, gracias a esto podemos encontrar personas a las cuales podemos empezar a seguir según nuestros intereses.
 
@@ -37,9 +35,8 @@ Mentionmap revisa las actualizaciones asociadas a la cuenta de un usuario, para 
 
 Además, cada nodo cambia según la interacción, de esta manera, las líneas trazadas que se ven más gruesas, significan que los usuarios mantienen un contacto con más frecuencia. Lo mismo pasa con hashtags, mientras más gruesa sea la línea, más uso se le da.
 
->“Como explica la entrada mashup (aplicación web híbrida) de la Wikipedia: «Una página que permite al usuario incrustar, por ejemplo, un vídeo de YouTube video, no es una página mashup (…). Para ello la misma página debería acceder a datos de terceros usando una API y procesar los datos de forma que aumente su valor para el usuario de la página»”
-
-*(Manovich Lev, 2013)*
+>“Como explica la entrada mashup (aplicación web híbrida) de la Wikipedia: «Una página que permite al usuario incrustar, por ejemplo, un vídeo de YouTube video, no es una página mashup (…). Para ello la misma página debería acceder a datos de terceros usando una API y procesar los datos de forma que aumente su valor para el usuario de la página»” 
+>(Manovich Lev, 2013)
 
 Se trata de un mashup o, dicho de otra forma, una aplicación web híbrida, ya que combina en este caso Twitter para ofrecer un nuevo servicio. La visualización se realiza en el navegador mediante una integración de datos que se obtiene desde la API de Twitter. Nos ofrece una mayor visibilidad a la red de Twitter con una facilidad de uso, lo que podría llevar horas de búsqueda intentando crearlo de manera manual.
 
@@ -48,8 +45,7 @@ En conclusión, está herramienta nos sirve para poder ver de una manera gráfic
 ## Re-descubriendo la hibridacion: Black Mirror: Bandersnatch
 
 >“Un híbrido también puede combinar ambas estrategias, es decir, definir nuevas interfaces/herramientas y nuevos formatos de medios al mismo tiempo.”
-
-*(Manovich Lev, 2013)*
+>(Manovich Lev, 2013)
 
 La película se trata de un joven programador que empieza con un proyecto de un videojuego basado en una novela que se trata de una serie de aventuras donde nosotros mismos, los usuarios, interaccionemos con la historia directamente, lo que quiere decir, que en función de las decisiones que tomen la historia se desarrollara por un camino u otro.
 
@@ -64,8 +60,7 @@ Para conseguir la interactividad se utilizan botones. En diferentes puntos, la p
 En este caso podemos ver una hibridación de medios que combina el cine y los videojuegos, ya que la película incluye elementos interactivos que están dirigidos hacia el usuario para convertir su experiencia a modo de juego y que el mismo forme parte del mismo. Dar al usuario el poder para que decida sobre la vida del protagonista y dejar que elija qué final prefiere.
 
 >“Los híbridos pueden combinar y reconfigurar formatos de medios conocidos e interfaces de medios para ofrecer nuevos tipos de representación híbridas.”
-
-*(Manovich Lev, 2013)*
+>(Manovich Lev, 2013)
 
 En caso de la película Black Mirror: Bandersnatch, como se comentó anteriormente, hay una mezcla entre el cine y los videojuegos que da lugar a un nuevo producto de contenidos digitales interactivos, abriendo el paso a otro modelo comunicacional basado en la participación del usuario.
 
