@@ -18,18 +18,20 @@ Según Manovich, la hibridación es un proceso de remediación de los medios, do
 
 A partir de aquí procederemos a analizar dos ejemplos de hibridación que son: mentionmap, una herramienta de análisis de **Twitter** y la película **Black Mirror: Bandersnatch** que se trata de un interactivo multimedia.
 
-## Re-descubriendo la hibridacion: Mentionmap
+## Re-descubriendo la hibridacion: Mentionmapp
+
+->![MentioMapp](https://pbs.twimg.com/profile_images/910620300252913666/ScaqKi-5_400x400.jpg)<-
 
 >“Pensemos en los mashups web que «combinan elementos de datos procedentes de múltiples fuentes y los ocultan tras una sencilla interfaz gráfica unificada»”
 >(Manovich Lev, 2013)
 
 Se trata de una herramienta con la cual podemos descubrir como interactúan los usuarios de Twitter y de que están hablando a través de un mapa 3D. Además, gracias a esto podemos encontrar personas a las cuales podemos empezar a seguir según nuestros intereses.
 
-Mentionmap nos permite de una forma muy visual conocer las conexiones de Twitter que más usamos nosotros y las conexiones de la gente a la que mencionamos. Además, también nos proporciona la información sobre los hashtags como en el caso anterior, usados tanto por nosotros, como por la gente con la que interactuamos.
+Mentionmapp nos permite de una forma muy visual conocer las conexiones de Twitter que más usamos nosotros y las conexiones de la gente a la que mencionamos. Además, también nos proporciona la información sobre los hashtags como en el caso anterior, usados tanto por nosotros, como por la gente con la que interactuamos.
 
 ![@NetflixES](https://i.imgur.com/fwMiYvg.png)
 
-Mentionmap revisa las actualizaciones asociadas a la cuenta de un usuario, para encontrar a la gente y los hashtags en los que ha sido mencionado. En el centro podemos ver al usuario escogido, que en el caso del ejemplo ha sido la cuenta oficial de Netflix España ([@NetflixES][netflix]) y alrededor los usuarios con los que interactúa y los hashtags.
+Mentionmapp revisa las actualizaciones asociadas a la cuenta de un usuario, para encontrar a la gente y los hashtags en los que ha sido mencionado. En el centro podemos ver al usuario escogido, que en el caso del ejemplo ha sido la cuenta oficial de Netflix España ([@NetflixES][netflix]) y alrededor los usuarios con los que interactúa y los hashtags.
 
 [netflix]: https://twitter.com/NetflixES
 
@@ -58,6 +60,10 @@ El concepto de interactividad podemos entender como la relación entre el usuari
 Para conseguir la interactividad se utilizan botones. En diferentes puntos, la película nos pregunta que queremos que haga el personaje en este momento. En la foto de arriba podemos observar como nos ofrece decidir sobre que tipo de cereales escoger.
 
 En este caso podemos ver una hibridación de medios que combina el cine y los videojuegos, ya que la película incluye elementos interactivos que están dirigidos hacia el usuario para convertir su experiencia a modo de juego y que el mismo forme parte del mismo. Dar al usuario el poder para que decida sobre la vida del protagonista y dejar que elija qué final prefiere.
+
+El interactivo presenta una estructura concéntrica, ya que no permite navegación entre nodos del mismo nivel. Tenemos un mismo punto de partida para todos y según la historia este avanzando, llegamos a un punto donde podemos escoger diferentes opciones. Sin embargo, incluso yendo por dos caminos diferentes tenemos la posibilidad de llegar a un mismo final.
+
+![Diagrama de flujo](https://i1.wp.com/www.sopitas.com/wp-content/uploads/2019/01/diagrama-bandersnatch-2.jpg)
 
 >“Los híbridos pueden combinar y reconfigurar formatos de medios conocidos e interfaces de medios para ofrecer nuevos tipos de representación híbridas.”
 >(Manovich Lev, 2013)
