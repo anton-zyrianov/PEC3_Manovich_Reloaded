@@ -68,9 +68,9 @@ El interactivo presenta una estructura concéntrica, ya que no permite navegaci�
 >“Los híbridos pueden combinar y reconfigurar formatos de medios conocidos e interfaces de medios para ofrecer nuevos tipos de representación híbridas.”
 >(Manovich Lev, 2013)
 
-En caso de la película Black Mirror: Bandersnatch, como se comentó anteriormente, hay una mezcla entre el cine y los videojuegos que da lugar a un nuevo producto de contenidos digitales interactivos, abriendo el paso a otro modelo comunicacional basado en la participación del usuario.
+En caso de la película Black Mirror: Bandersnatch, como se comentó anteriormente, hay una mezcla entre el cine y los videojuegos que da lugar a un nuevo producto de contenidos digitales interactivos, abriendo el paso a otro modelo comunicacional basado en la participación del usuario. Gracias al avance tecnológico la comunicación esta sufriendo cambios, creando otras formas de comunicar y nuevos formatos que, a su vez, modifican la relación entre los medios y usuarios.
 
-Gracias al avance tecnológico la comunicación esta sufriendo cambios, creando otras formas de comunicar y nuevos formatos que, a su vez, modifican la relación entre los medios y usuarios.
+Además, este interactivo permite a Netflix recompilar la información sobre el comportamiento de los usuarios en función de las decisiones tomadas a lo largo de la historia. Esto les da la posibilidad de realizar un análisis que puede ser utilizado en las futuras creaciones de series y películas.
 
 ### Referencias y Bibliografía
 
