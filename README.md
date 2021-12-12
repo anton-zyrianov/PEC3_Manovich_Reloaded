@@ -86,4 +86,7 @@ Gracias al avance tecnológico la comunicación esta sufriendo cambios, creando 
 
 * Scolari, Carlos, 2013. **Los medios al gobierno, el software al poder (leyendo a Manovich) (II)** [online]. En hipermediaciones, Noviembre 2013. Disponible en: https://hipermediaciones.com/2013/11/13/los-medios-al-gobierno-el-software-al-poder-leyendo-a-manovich-ii/ [Consulta: 07/12/2021].
 
-![CC0 1.0 Universal](https://www.researchgate.net/profile/Donat-Agosti/publication/51971424/figure/fig2/AS:203212943564807@1425461149299/Logo-of-the-CC-Zero-or-CC0-Public-Domain-Dedication-License-No-Rights-Reserved-CC.png)
+
+[Creative Commons Zero v1.0 Universal][CC]
+
+[CC]: https://github.com/zantonz/PEC3_Manovich_Reloaded/blob/main/LICENSE
