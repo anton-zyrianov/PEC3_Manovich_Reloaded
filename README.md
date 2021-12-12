@@ -20,7 +20,7 @@ A partir de aquí procederemos a analizar dos ejemplos de hibridación que son: 
 
 ## Re-descubriendo la hibridacion: Mentionmapp
 
-->![MentioMapp](https://pbs.twimg.com/profile_images/910620300252913666/ScaqKi-5_400x400.jpg)<-
+<center>![MentioMapp](https://pbs.twimg.com/profile_images/910620300252913666/ScaqKi-5_400x400.jpg)</center>
 
 >“Pensemos en los mashups web que «combinan elementos de datos procedentes de múltiples fuentes y los ocultan tras una sencilla interfaz gráfica unificada»”
 >(Manovich Lev, 2013)
