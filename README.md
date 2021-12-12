@@ -14,7 +14,7 @@ Según la *RAE*, hibridación es:
 >“Una vez los ordenadores se transformaron en cómodas casas donde habitaban un sinfín de medios simulados y nuevos, es natural esperar que empezarían a generar híbridos. Y esto es exactamente lo que ha venido sucediendo en esta nueva etapa de evolución de los medios. Tanto los simulados como los nuevos de verdad (texto, hipertexto, fotografías fijas, vídeo digital, animación en 2D y 3D, espacios navegables en 3D, mapas, información de localización) han pasado a funcionar como componentes de muchas nuevas combinaciones de medios.” 
 >(Manovich Lev, 2013)
 
-Según Manovich, la hibridación es un proceso de remediación de los medios, donde no se inventa nada nuevo, sino evoluciona lo que ya estaba. La principal diferencia entre la multimedia y la hibridación es la relación que existe entre los elementos que componen este medio. Por lo tanto, podríamos decir que la hibridación es una combinación de dos o más medios de diferente tipo como pueden ser animación, mapas, fotografías, etc …  que hacer que las aplicaciones sean híbridas.
+Según Manovich, la hibridación es un proceso de remediación de los medios, donde no se inventa nada nuevo, sino evoluciona lo que ya estaba. La principal diferencia entre la multimedia y la hibridación es la relación que existe entre los elementos que componen este medio. Por lo tanto, podríamos decir que la hibridación es una combinación de dos o más medios de diferente tipo como pueden ser animación, mapas, fotografías, etc …  que hace que las aplicaciones sean híbridas.
 
 A partir de aquí procederemos a analizar dos ejemplos de hibridación que son: mentionmap, una herramienta de análisis de **Twitter** y la película **Black Mirror: Bandersnatch** que se trata de un interactivo multimedia.
 
@@ -25,7 +25,7 @@ A partir de aquí procederemos a analizar dos ejemplos de hibridación que son: 
 >“Pensemos en los mashups web que «combinan elementos de datos procedentes de múltiples fuentes y los ocultan tras una sencilla interfaz gráfica unificada»”
 >(Manovich Lev, 2013)
 
-Se trata de una herramienta con la cual podemos descubrir como interactúan los usuarios de Twitter y de que están hablando a través de un mapa 3D. Además, gracias a esto podemos encontrar personas a las cuales podemos empezar a seguir según nuestros intereses.
+Se trata de una herramienta con la cual podemos descubrir como interactúan los usuarios de Twitter y de que están hablando a través de un mapa 3D. Además, gracias a esto podemos encontrar personas de las cuales podemos empezar a seguir según nuestros intereses.
 
 Mentionmapp nos permite de una forma muy visual conocer las conexiones de Twitter que más usamos nosotros y las conexiones de la gente a la que mencionamos. Además, también nos proporciona la información sobre los hashtags como en el caso anterior, usados tanto por nosotros, como por la gente con la que interactuamos.
 
@@ -35,7 +35,7 @@ Mentionmapp revisa las actualizaciones asociadas a la cuenta de un usuario, para
 
 [netflix]: https://twitter.com/NetflixES
 
-Además, cada nodo cambia según la interacción, de esta manera, las líneas trazadas que se ven más gruesas, significan que los usuarios mantienen un contacto con más frecuencia. Lo mismo pasa con hashtags, mientras más gruesa sea la línea, más uso se le da.
+Además, cada nodo cambia según la interacción, de esta manera, las líneas trazadas que se ven más gruesas, significan que los usuarios mantienen un contacto con más frecuencia. Lo mismo pasa con los hashtags, mientras más gruesa sea la línea, más uso se le da.
 
 >“Como explica la entrada mashup (aplicación web híbrida) de la Wikipedia: «Una página que permite al usuario incrustar, por ejemplo, un vídeo de YouTube video, no es una página mashup (…). Para ello la misma página debería acceder a datos de terceros usando una API y procesar los datos de forma que aumente su valor para el usuario de la página»” 
 >(Manovich Lev, 2013)
@@ -51,9 +51,9 @@ En conclusión, está herramienta nos sirve para poder ver de una manera gráfic
 
 La película se trata de un joven programador que empieza con un proyecto de un videojuego basado en una novela que se trata de una serie de aventuras donde nosotros mismos, los usuarios, interaccionemos con la historia directamente, lo que quiere decir, que en función de las decisiones que tomen la historia se desarrollara por un camino u otro.
 
-El interactivo esta hecha de manera que nosotros mismos seamos los protagonistas, las decisiones afectan a si avanzásemos o retrocediésemos en la historia. Esto implica que la duración de la misma puede variar y durar entre 45 o 120 minutos.
+El interactivo esta hecha de manera que nosotros mismos somos los protagonistas, las decisiones afectan a si avanzásemos o retrocediésemos en la historia. Esto implica que la duración de la misma puede variar y durar entre 45 o 120 minutos.
 
-El concepto de interactividad podemos entender como la relación entre el usuario y la máquina. Esto nos lleva a que cada acción realizada afecte directamente en lo que sucederá en la pantalla. Durante la película el usuario ha de ser activo, teniendo la posibilidad de actuar y decidir mediante diferentes opciones a escoger.
+El concepto de interactividad lo podemos entender como la relación entre el usuario y la máquina. Esto nos lleva a que cada acción realizada afecte directamente en lo que sucederá en la pantalla. Durante la película el usuario ha de ser activo, teniendo la posibilidad de actuar y decidir mediante diferentes opciones a escoger.
 
 ![Black Mirror: Bandersnatch](https://i.ibb.co/Tg3FqzM/black-mirror.jpg)
 
